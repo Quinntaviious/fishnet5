@@ -1,0 +1,8 @@
+---
+title: "Fishnet5"
+author: "Quinn B"
+description: "A personal blog created using Jekyll."
+baseurl: "/blogs"
+url: "https://Quinntaviious.github.io"
+theme: minima
+---
